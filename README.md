@@ -1,5 +1,6 @@
 MicroRuleEngine is a single file rule engine
 ============================================
+#### Fork of Fork Note:  My CI process requires a Nuget Package. Forking to get this branch in NUGet as short term fix
 
 #### Fork Note:
 On this fork, I've added a new API, since the original is rather unwieldy.   With the new API, the Rule defined below in `ConditionalLogic()` can be written as:
