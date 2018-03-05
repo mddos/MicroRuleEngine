@@ -1,5 +1,6 @@
 MicroRuleEngine is a single file rule engine
 ============================================
+#### Fork of Fork Note:  My CI process requires a Nuget Package. Forking to get this branch in NUGet as short term fix
 
 #### Fork of Fork Note:
    I have a usecase where the value being evaluated is another field in the object and not an absolute value. I also wanted a simplier non empty string data check. This is to support an inhouse rules wizzard.
