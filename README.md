@@ -1,6 +1,10 @@
 MicroRuleEngine is a single file rule engine
 ============================================
 
+#### Fork of Fork Note:
+   I have a usecase where the value being evaluated is another field in the object and not an absolute value. I also wanted a simplier non empty string data check. This is to support an inhouse rules wizzard.
+
+
 #### Fork Note:
 On this fork, I've added a new API, since the original is rather unwieldy.   With the new API, the Rule defined below in `ConditionalLogic()` can be written as:
 ```csharp
