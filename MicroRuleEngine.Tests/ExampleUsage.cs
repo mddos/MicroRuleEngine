@@ -128,6 +128,7 @@ namespace MicroRuleEngine.Tests
         public void AnyOperator()
         {
             Order order = GetOrder();
+            
             //order.Items.Any(a => a.ItemCode == "test")
             Rule rule = new Rule
             {
